@@ -5,11 +5,11 @@ Watches E-commerce app (home and product page) with react native,
 
 ## Screenshots
 
-<p align="center"><img src="https://redayagoub.com/assets/images/watche2.png" width="500"></p>
-<p align="center"><img src="https://redayagoub.com/assets/images/watche1.png" width="500"></p>
-<p align="center"><img src="https://redayagoub.com/assets/images/watche3.png" width="500"></p>
-<p align="center"><img src="https://redayagoub.com/assets/images/watche4.png" width="500"></p>
-<p align="center"><img src="https://redayagoub.com/assets/images/watche5.png" width="500"></p>
+<p align="center"><img src="https://redayagoub.com/images/watche2.png" width="500"></p>
+<p align="center"><img src="https://redayagoub.com/images/watche1.png" width="500"></p>
+<p align="center"><img src="https://redayagoub.com/images/watche3.png" width="500"></p>
+<p align="center"><img src="https://redayagoub.com/images/watche4.png" width="500"></p>
+<p align="center"><img src="https://redayagoub.com/images/watche5.png" width="500"></p>
 
 ## Contact
 
